@@ -1,3 +1,3 @@
 # Flutter-Projects
 
-### _Compiled list of Flutter projects_
+### _Compiled list of Flutter projects._
