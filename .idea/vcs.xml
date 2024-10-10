@@ -18,6 +18,10 @@
     <mapping directory="$PROJECT_DIR$/football_fans_app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib/projects/flutter projects/calculator_app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib/projects/flutter projects/chat_messaging_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/deca_meal/decameal-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/digital-wallet-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/digital_wallet_ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib/projects/flutter projects/decameal-flutter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib/projects/flutter projects/digital-wallet-ui" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib/projects/flutter projects/digital_wallet_ui" vcs="Git" />

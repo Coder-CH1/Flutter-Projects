@@ -338,6 +338,30 @@
       <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/ios/.symlinks/plugins/image_picker_ios/build" />
       <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/ios/.symlinks/plugins/image_picker_ios/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/ios/.symlinks/plugins/image_picker_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_auth/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_auth/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_auth/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/digital_wallet_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/digital_wallet_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/digital_wallet_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/firebase/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/firebase/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/firebase/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/deca_meal/decameal-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/deca_meal/decameal-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/deca_meal/decameal-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_auth/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_auth/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_auth/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_core/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_core/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/projects/flutter projects/chat_messaging_app/lib/football_fans_app/ios/.symlinks/plugins/firebase_core/example/.dart_tool" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
